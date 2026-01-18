@@ -17,7 +17,7 @@
 
 CS + Economics student @ UMass Amherst, passionate about building scalable systems that combine software engineering with financial reasoning. I'm driven by clean code, algorithmic thinking, and leveraging technology to solve real-world problems. Constantly learning, building, and pushing boundaries.
 
-- 📍 **Location**: Webster, Massachusetts  
+- 📍 **Location**: New York City 
 - 🎓 **Education**: University of Massachusetts Amherst (CS + Economics)  
 - 💼 **Focus**: Full-stack development, quantitative engineering, algorithm optimization  
 - 🔍 **Interests**: Fintech, AI systems, system design, quant development  
