@@ -6,7 +6,7 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/domgielar?label=Followers&style=social)](https://github.com/domgielar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/dominik-gielarowiec-76959427a)
-[![Portfolio](https://personal-project-xi-henna.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blueviolet?style=flat)](https://personal-project-xi-henna.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:dominikgielarowiec@gmail.com)
 
 </div>
