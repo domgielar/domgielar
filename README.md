@@ -6,7 +6,7 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/domgielar?label=Followers&style=social)](https://github.com/domgielar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/dominik-gielarowiec-76959427a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blueviolet?style=flat)](https://udash.tech)
+[![Portfolio](https://personal-project-xi-henna.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:dominikgielarowiec@gmail.com)
 
 </div>
@@ -20,7 +20,7 @@ CS + Economics student @ UMass Amherst, passionate about building scalable syste
 - 📍 **Location**: New York City 
 - 🎓 **Education**: University of Massachusetts Amherst (CS + Economics)  
 - 💼 **Focus**: Full-stack development, quantitative engineering, algorithm optimization  
-- 🔍 **Interests**: Fintech, AI systems, system design, quant development  
+- 🔍 **Interests**: SWE, AI systems, system design
 - 📅 **On GitHub Since**: December 2023
 
 ---
@@ -37,7 +37,7 @@ CS + Economics student @ UMass Amherst, passionate about building scalable syste
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white)
+
 
 ### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -72,7 +72,7 @@ CS + Economics student @ UMass Amherst, passionate about building scalable syste
 ## 💡 Currently Learning
 
 - Advanced system design patterns
-- Quantitative finance fundamentals
+- Neural Networks
 - AI/ML model optimization
 
 ---
@@ -94,15 +94,13 @@ Current Podcasts: Wall Street Breakfast and Breaking Into Finance
 ## 📫 Let's Connect
 
 - 💼 **LinkedIn**: [linkedin.com/in/dominik-gielarowiec](https://www.linkedin.com/in/dominik-gielarowiec-76959427a)
-- 🌐 **Portfolio**: [udash.tech](https://udash.tech) (In Progress)
+- 🌐 **Portfolio**: (https://personal-project-xi-henna.vercel.app/)
 - 📧 **Email**: [dominikgielarowiec@gmail.com](mailto:dominikgielarowiec@gmail.com)
 - 🐙 **GitHub**: [@domgielar](https://github.com/domgielar)
 
 ---
 
 <div align="center">
-
-### ⚡ Last Updated: November 28, 2025
 
 <!--
 COPILOT TODOs:
